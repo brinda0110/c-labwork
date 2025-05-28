@@ -44,3 +44,40 @@ int main()
 }
 
 }
+/*output:
+enter id:1
+enter companyname:tata
+enter color:black
+enter model:mahindra
+enter releaseyear:2007
+
+enter id:1
+enter companyname:tata
+enter color:black
+enter model:mahindra
+enter releaseyear:2007
+
+enter id:2
+enter companyname:porter
+enter color:blue
+enter model:delivery
+enter releaseyear:2022
+
+enter id:2
+enter companyname:porter
+enter color:blue
+enter model:delivery
+enter releaseyear:2022
+
+enter id:1
+enter companyname:motorwala
+enter color:violet
+enter model:auro
+enter releaseyear:2006
+
+enter id:1
+enter companyname:motorwala
+enter color:violet
+enter model:auro
+enter releaseyear:2006
+*/
